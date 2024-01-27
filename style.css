@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+.back_gr
+{
+  background-image: url(./images/BG.png);
+  height: 100%;
+  width: 100%;
+}
+=======
 * {
     margin: 0;
     padding: 0;
@@ -56,3 +64,37 @@ body, html {
     font-weight: bold; /* Make it bold */
     
 }
+
+#centeredbeyondimages
+{
+  position: absolute;
+    top: 0;
+    right: 50%;
+    margin: 1%;
+    
+}
+
+#centered-textfor2 {
+  position: absolute;
+  top: 15%; /* Adjust the top value to center it at the top */
+  left: 30%;
+  transform: translateX(-50%);
+  text-align: center;
+  color: rgb(0, 0, 0); /* Set text color as needed */
+  font-family: Monaco; /* Use your preferred font */
+  font-size: 20px;
+  margin-top: 60px;
+}
+#center_images
+{
+  position: absolute;
+  top: 15%; /* Adjust the top value to center it at the top */
+  left: 30%;
+  transform: translateX(-50%);
+  text-align: center;
+  color: rgb(0, 0, 0); /* Set text color as needed */
+  font-family: Monaco; /* Use your preferred font */
+  font-size: 20px;
+  margin-top: 60px;
+}
+>>>>>>> 5712d9dc79c518f610d37a1a9aa0b818ce43d05b
